@@ -22,3 +22,6 @@ Repositorio de prácticas, APIs REST, CRUDs y microservicios desarrollados con *
 
 2. Contenido en constante actualización
 
+3. Desarrollado por: Pedro Enrique Bravo
+
+
