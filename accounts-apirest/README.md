@@ -42,3 +42,5 @@ curl -X POST "http://localhost:8080/api/v1/accounts/{id}/deposit?amount=50.00"
 - Integración con PostgreSQL y migraciones de esquema.
 - Pruebas unitarias y de integración con JUnit 5 y MockMvc.
 - Empaquetado con Docker (`Dockerfile` multi-stage).
+
+## Desarrollo por: Pedro Enrique Bravo
