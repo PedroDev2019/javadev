@@ -1,0 +1,9 @@
+cat << 'EOF' > /var/www/html/javadev/.gitignore
+target/
+build/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+.env
+EOF
