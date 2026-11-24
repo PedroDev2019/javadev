@@ -19,3 +19,6 @@ Repositorio de prácticas, APIs REST, CRUDs y microservicios desarrollados con *
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/PedroDev2019/javadev.git](https://github.com/PedroDev2019/javadev.git)
+
+2. Contenido en constante actualización
+
